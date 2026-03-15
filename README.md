@@ -43,12 +43,12 @@ I am a passionate Software Engineer with a Master’s degree in **Computer Scien
 
 ## 💼 Experience
 
-**Software Developer Engineer ,IHUB NTIHAC FOUNDATION (C3iHub)**  
+**Software Developer Engineer, IHUB NTIHAC FOUNDATION (C3iHub)**  
 `July 2025 – Present`  
 - Worked as part of the Security Operations Center (SOC) team, focusing on threat intelligence ingestion, analysis, and
 automation within a dedicated threat module.
 
-**Student research associate @ Center for Developing Intelligent Systems (IIT Kanpur)**  
+**Student research associate, Center for Developing Intelligent Systems (IIT Kanpur)**  
 `May 2024 – Jun 2025`  
 - Developed a prototype for forecasting U.S. cardiovascular mortality using Bayesian hierarchical Linear regression
 - Preprocessed data and explored modeling approaches, including no pooling, complete pooling and partial pooling.
