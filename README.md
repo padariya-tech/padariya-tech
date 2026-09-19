@@ -14,11 +14,6 @@
 <a href="https://leetcode.com/u/Nij_Padariya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://github.com/padariya-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=padariya-tech&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/padariya-tech?style=flat-square&color=2c5364)
-
 </div>
 
 ---
